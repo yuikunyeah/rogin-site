@@ -166,7 +166,7 @@ li{
   list-style: none;
 }
 .main{
-  float: center;
+  float:center;
   width: 80%;
   margin: 10%;
   background: #ffffff;
@@ -175,36 +175,6 @@ border-radius: 20px;
 
   Padding: 15px 0px;
 
-}
-h1{
-font-size: 1.5em;/* フォントサイズ */
-font-weight: bold;/* フォント太さ */
-padding: 1em;
-margin-bottom: 2em;
-border: 4px double #619f60;/* 線 */
-border-radius: 15px;/* 角丸 */
-text-align: center;/* テキストの位置 */
-color: #62a061;/* フォント色 */
-}
-body ul{
-  list-style: none;
-}
-body ul li{
-  border-bottom: solid 1px #aaaaaa;
-  display: block;
-}
-body ul li a{
-  transition-property: border,background-color;
-  transition-duration: 0.3s;
-  text-decoration: none;
-  padding: 5px;
-  color: #202020;
-  display: block;
-}
-body ul li a:hover{
-  border-left: solid 10px #40803b;
-  background-color: #ffffff;
- display: block;
 }
 body a{
 color: #008080;
